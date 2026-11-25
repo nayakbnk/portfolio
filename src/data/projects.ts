@@ -94,7 +94,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   },
   {
     title: 'LeetCode Problem Solving',
-    subtitle: '60+ Problems Solved',
+    subtitle: '70+ Problems Solved',
 
     iconName: 'Code2',
     description: 'Continuous hands-on problem solving focusing on Java Data Structures, Algorithms, arrays, trees, and dynamic programming.',
@@ -132,7 +132,7 @@ export const TECH_CATEGORIES: SkillCategory[] = [
     title: 'Databases',
     tag: 'STORAGE & MODELING',
     accent: '#A7E86B',
-    skills: ['MongoDB']
+    skills: ['MongoDB','Supabase','Firebase']
   },
   {
     title: 'Tools',
